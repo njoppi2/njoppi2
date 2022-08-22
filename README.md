@@ -1,12 +1,13 @@
-### Hi 👋, I'm Nelson
+# Hi 👋, I'm Nelson
 
 
-**About me**
+## About me
 - 💻 Computer science student at [UFSC](https://ufsc.br/)
 - 🔬 Scholarship in scientific initiation at [UFSC](https://ufsc.br/)
 - 🎯 Wants to become an artificial inteligence researcher
 - <img height="16" alt="react" src="https://user-images.githubusercontent.com/16853682/185823851-fa6ed762-761d-4c24-b07f-b048df551627.png">   Contact me through Linkedin [here](https://www.linkedin.com/in/nelson-joppi-a363131a2/?locale=en_US)
 
+## Programming skills
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
