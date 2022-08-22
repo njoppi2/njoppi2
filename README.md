@@ -33,7 +33,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
 https://github.com/DenverCoder1/DenverCoder1
 
 
-
+I started my coding career at Voltbras, a startup created by some friends of mine, where I learned the majority of my web development skills.
 
 Here are some ideas to get you started:
 
