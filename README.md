@@ -4,7 +4,7 @@
 ## About me
 - 💻 Computer science student at [UFSC](https://ufsc.br/)
 - 🔬 Scholarship in scientific initiation at [UFSC](https://ufsc.br/)
-- 🎯 Wants to become an artificial inteligence researcher
+- 🎯 Wants to become an artificial intelligence researcher
 - <img height="16" alt="react" src="https://user-images.githubusercontent.com/16853682/185823851-fa6ed762-761d-4c24-b07f-b048df551627.png">   Contact me through Linkedin [here](https://www.linkedin.com/in/nelson-joppi-a363131a2/?locale=en_US)
 
 ## Programming skills
