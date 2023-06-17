@@ -4,7 +4,7 @@
 ## About me
 - 💻 Computer science student at [UFSC](https://ufsc.br/)
 - 🔬 Undergraduate research student at [UFSC](https://ufsc.br/)
-- 🎯 Want to become an artificial intelligence researcher
+- 🎯 Aspiring AI researcher
 - <img height="16" alt="react" src="https://user-images.githubusercontent.com/16853682/185823851-fa6ed762-761d-4c24-b07f-b048df551627.png">   Contact me through LinkedIn [here](https://www.linkedin.com/in/nelson-joppi-a363131a2/?locale=en_US)
 
 ## Programming skills
@@ -15,7 +15,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
    
 <br />
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoppi2&show_icons=true)
 
 
