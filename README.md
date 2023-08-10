@@ -20,7 +20,9 @@
 | [multi-agent-miners](https://github.com/njoppi2/multi-agent-miners) | ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|
 
 </td></tr></table>
-<!-- https://github.com/Ileriayo/markdown-badges#servers
+<!--
+https://github.com/Ileriayo/markdown-badges#servers
+https://dev.to/envoy_/150-badges-for-github-pnk
 
 <!--
 ## Programming skills
