@@ -1,6 +1,3 @@
-# Hi 👋, I'm Nelson
-
-
 ## About me
 - 💻 Computer science student at [UFSC](https://ufsc.br/)
 - 🔬 Undergraduate research student at [UFSC](https://ufsc.br/)
