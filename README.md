@@ -1,3 +1,6 @@
+
+<!--
+
 ## About me
 - 💻 Computer science student at [UFSC](https://ufsc.br/)
 - 🔬 Undergraduate researcher at [FEESC](https://www.linkedin.com/company/feesc/mycompany/)
