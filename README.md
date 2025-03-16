@@ -1,10 +1,12 @@
 
-<!--
 
-## About me
-- 💻 Computer science student at [UFSC](https://ufsc.br/)
-- 🔬 Undergraduate researcher at [FEESC](https://www.linkedin.com/company/feesc/mycompany/)
-- 📫 Contact me via e-mail or LinkedIn (links on the left)
+
+## About Me
+- 🎓 Computer Science graduate from [UFSC](https://ufsc.br/) (2024)
+- 💼 ML & LLM Engineer at the Court of Accounts of Santa Catarina
+- 🔬 ML Solutions Engineer & Researcher (Part-time) at [FEESC](https://www.linkedin.com/company/feesc/mycompany/)
+- 📫 Reach out via [email](mailto:nelsonluizjoppifilho@gmail.com) or [LinkedIn](http://linkedin.com/in/nelsonjoppi)
+
 
 ## Projects
 
